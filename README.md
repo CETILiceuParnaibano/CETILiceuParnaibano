@@ -10,4 +10,4 @@ Você deseja testar o AEE Buddy?
 
 
 <br>
-<h2>Acesse nosso site: <a href="www.aeebuddy.com.br">Clique aqui</a></h2>
+<h2>Acesse nosso site: </h2>
