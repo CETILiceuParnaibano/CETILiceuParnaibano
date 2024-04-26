@@ -7,3 +7,7 @@ Você deseja testar o AEE Buddy?
 2 - iniciar a IA
 <br>
 3 - iniciar o Sistema
+
+
+<br>
+<h2>Acesse nosso site: <a href="aeebuddy.com.br">Clique aqui</a></h2>
